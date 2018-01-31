@@ -58,3 +58,19 @@ ul{
 p{
     margin: 20px;
 }
+
+.blog-post{
+    margin: 10px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #606060;
+    padding: 10px;
+    border-width: 1px;
+}
+
+img{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
